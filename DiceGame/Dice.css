@@ -18,13 +18,13 @@ h1
 {
   font-size: 4rem;
   font-family:'cambria' cursive;
-  //color: blue;
+  color: blue;
 }
 p
 {
   font-size: 4rem;
   font-family:'cambria' cursive;
-  //color: blue;
+  color: blue;
 }
 img
 {
@@ -32,10 +32,10 @@ width: 70%;
 }
 footer
 {
-  color: ;
+  color: blue;
   text-align: center;
   font-family: 'cambria' cursive;
   margin-top: auto;
 }
 
-//#FFEBEE  #F3E5F5  #F3E5F5
+/*#FFEBEE  #F3E5F5  #F3E5F5*/
